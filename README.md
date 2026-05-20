@@ -51,6 +51,7 @@ Jalankan notebook:
 ```bash
 jupyter notebook
 ```
+Journal Link: https://ijicom.respati.ac.id/index.php/ijicom/article/view/190
 
 ## Author
 Ammara Desma Marzooqa
